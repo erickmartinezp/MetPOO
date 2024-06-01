@@ -1,0 +1,52 @@
+
+EMARTINEZ@113J3Z2 MINGW64 ~/Documents/UNIVALLE/ERICK/5. CUATRIMESTRE/METODOLOGIA DE LA PROGRAMACION ORIENTADA A OBJETOS/MetPOO_Univalle
+$ git config --global user.name "erickmartinezp"
+
+EMARTINEZ@113J3Z2 MINGW64 ~/Documents/UNIVALLE/ERICK/5. CUATRIMESTRE/METODOLOGIA DE LA PROGRAMACION ORIENTADA A OBJETOS/MetPOO_Univalle
+$ git config --global user.email "erickmartinezp@yahoo.es"
+
+EMARTINEZ@113J3Z2 MINGW64 ~/Documents/UNIVALLE/ERICK/5. CUATRIMESTRE/METODOLOGIA DE LA PROGRAMACION ORIENTADA A OBJETOS/MetPOO_Univalle
+$ git init
+Initialized empty Git repository in C:/Users/emartinez/Documents/UNIVALLE/ERICK/5. CUATRIMESTRE/METODOLOGIA DE LA PROGRAMACION ORIENTADA A OBJETOS/MetPOO_Univalle/.git/
+
+EMARTINEZ@113J3Z2 MINGW64 ~/Documents/UNIVALLE/ERICK/5. CUATRIMESTRE/METODOLOGIA DE LA PROGRAMACION ORIENTADA A OBJETOS/MetPOO_Univalle (master)
+$ git add .
+
+EMARTINEZ@113J3Z2 MINGW64 ~/Documents/UNIVALLE/ERICK/5. CUATRIMESTRE/METODOLOGIA DE LA PROGRAMACION ORIENTADA A OBJETOS/MetPOO_Univalle (master)
+$ git add .
+
+EMARTINEZ@113J3Z2 MINGW64 ~/Documents/UNIVALLE/ERICK/5. CUATRIMESTRE/METODOLOGIA DE LA PROGRAMACION ORIENTADA A OBJETOS/MetPOO_Univalle (master)
+$ git commit -m "PruebaGit"
+[master (root-commit) 94fd7e6] PruebaGit
+ 8 files changed, 1988 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 PruebaGit/build.xml
+ create mode 100644 PruebaGit/manifest.mf
+ create mode 100644 PruebaGit/nbproject/build-impl.xml
+ create mode 100644 PruebaGit/nbproject/genfiles.properties
+ create mode 100644 PruebaGit/nbproject/project.properties
+ create mode 100644 PruebaGit/nbproject/project.xml
+ create mode 100644 PruebaGit/src/pruebagit/Principal.java
+
+EMARTINEZ@113J3Z2 MINGW64 ~/Documents/UNIVALLE/ERICK/5. CUATRIMESTRE/METODOLOGIA DE LA PROGRAMACION ORIENTADA A OBJETOS/MetPOO_Univalle (master)
+$ git branch -M main
+
+
+EMARTINEZ@113J3Z2 MINGW64 ~/Documents/UNIVALLE/ERICK/5. CUATRIMESTRE/METODOLOGIA DE LA PROGRAMACION ORIENTADA A OBJETOS/MetPOO_Univalle (main)
+$ git remote add origin https://github.com/erickmartinezp/MetPOO.git
+
+EMARTINEZ@113J3Z2 MINGW64 ~/Documents/UNIVALLE/ERICK/5. CUATRIMESTRE/METODOLOGIA DE LA PROGRAMACION ORIENTADA A OBJETOS/MetPOO_Univalle (main)
+$ git push -u origin main
+info: please complete authentication in your browser...
+Enumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (12/12), done.
+Writing objects: 100% (14/14), 15.61 KiB | 571.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/erickmartinezp/MetPOO.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+EMARTINEZ@113J3Z2 MINGW64 ~/Documents/UNIVALLE/ERICK/5. CUATRIMESTRE/METODOLOGIA DE LA PROGRAMACION ORIENTADA A OBJETOS/MetPOO_Univalle (main)
+$
